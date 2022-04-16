@@ -36,12 +36,7 @@ header{
     text-shadow: 2px 2px #1b432d;
 }
 
-li{
-    display: inline;
-    margin: 10px;
-
-}
-li>a{
+a.menu{
     color: white;
     text-decoration: none;
     font-weight: bold;

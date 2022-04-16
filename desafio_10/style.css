@@ -1,0 +1,116 @@
+@charset "utf-8";
+@font-face {
+    font-family: "rakesly";
+    src: url("fontes/rakesly el.otf") format("opentype");
+}
+@font-face {
+    font-family: "idroid";
+    src: url("fontes/IDroid.otf") format("opentype");
+}
+
+body{
+    background-color: #84e1ad ;
+}
+
+header{
+    background-image: linear-gradient(to top, #1b432d, #3bd27f);
+    width: 105%;
+    margin: -27px -60px -16px -8px;
+    border: 0px;
+}
+
+.principal{
+    font-family: "rakesly";
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px #1b432d;
+    
+}
+
+.frase{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #1b432d;
+}
+
+li{
+    display: inline;
+    margin: 10px;
+
+}
+li>a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+main{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+img{
+    width: 100%;
+}
+.fotoMenor{
+    width: auto;
+    display: block;
+    margin: auto;
+}
+video{
+    width: 105%;
+    margin-left: -20px;
+}
+
+h1{
+    font-family: "idroid";
+    font-size: 30px;
+    color: #255e3f;
+}
+
+h2{
+    font-family: "idroid";
+    color: #255e3f;
+    background-image: linear-gradient(to right, #84e1ad, white);
+    padding: 10px;
+}
+
+h3{
+background-image:linear-gradient(to right,#3bd27f,#2da563) ;
+margin: -10px;
+border: 0px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+padding: 10px;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.caixa{
+    background-color: #cdfce1;
+    border: 0px;
+    margin: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 4px #255e3f;
+}
+
+.last{
+    text-indent: 30px;
+}
+
+footer{
+    background-color: #255e3f;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: -8px;
+}

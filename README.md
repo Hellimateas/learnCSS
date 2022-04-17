@@ -25,4 +25,6 @@
     </p>
 <h2><a href="https://github.com/Hellimateas/learnCSS/tree/main/desafio_10">Desafio 10</a></h2>
     <p>
+        Este desafio é um pouco mais complexo, está responsivo, há vídeos, há imagens e outros.
+        Um site que fala um pouco sobre a história do mascote do android.
     </p>

@@ -12,7 +12,7 @@
     </p>
 <h2>|<a href="https://github.com/Hellimateas/learnCSS/tree/main/desafio_02">Desafio 02</a></h2>
     <p>
-        Aqui já foi possível incluir imagem.
+        Aqui já foi possível incluir imagem e favicon no site.
     </p>
 
 <h2><a href="https://github.com/Hellimateas/learnCSS/tree/main/desafio_03">Desafio 03</a></h2>

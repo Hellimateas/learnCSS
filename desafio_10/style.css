@@ -6,10 +6,27 @@
 @font-face {
     font-family: "idroid";
     src: url("fontes/IDroid.otf") format("opentype");
+    font-weight: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root{
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+
+    --font-padrao: Arial, Helvetica, Verdana, sans-serif;
+    --font-destaque: 'Bebas Neue', cursive;
+    --font-android: 'idroid', cursive;
 }
 
 body{
-    background-color: #84e1ad ;
+    background-color: var(--cor0);
+    font-family: var(--font-padrao);
 }
 
 header{
@@ -17,10 +34,12 @@ header{
     width: 105%;
     margin: -27px -60px -16px -8px;
     border: 0px;
+    color: var(--cor3);
+    font-family: var(--font-destaque);
 }
 
 .principal{
-    font-family: "rakesly";
+    font-family: var(--font-destaque);
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;

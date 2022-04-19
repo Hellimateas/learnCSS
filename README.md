@@ -27,4 +27,5 @@
     <p>
         Este desafio é um pouco mais complexo, está responsivo, há vídeos, há imagens e outros.
         Um site que fala um pouco sobre a história do mascote do android.
+        Foi utilizado vários conceitos de html e css.
     </p>
